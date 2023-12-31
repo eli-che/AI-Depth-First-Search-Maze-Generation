@@ -1,0 +1,53 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+x64/Debug/vc143.pdb
+x64/Debug/vc143.idb
+x64/Debug/Ai3.vcxproj.FileListAbsolute.txt
+x64/Debug/Ai3.tlog/link.write.1.tlog
+x64/Debug/Ai3.tlog/CL.write.1.tlog
+x64/Debug/Ai3.tlog/CL.read.1.tlog
+x64/Debug/Ai3.tlog/CL.read.1.tlog
+x64/Debug/Ai3.tlog/Cl.items.tlog
+x64/Debug/Ai3.tlog/Cl.items.tlog
+x64/Debug/Ai3.tlog/link.command.1.tlog
+x64/Debug/Ai3.tlog/Ai3.lastbuildstate
+x64/Debug/Ai3.tlog/CL.command.1.tlog
+x64/Debug/Ai3.ilk
+x64/Debug/Ai3.exe.recipe
+x64/Debug/Ai3.log
+x64/Debug/Ai3.tlog/link.read.1.tlog
+*.pdb
+*.ipch
+*.db
+.vs/Ai3/v17/.suo
+*.vsidx
