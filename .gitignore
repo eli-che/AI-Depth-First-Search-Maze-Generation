@@ -51,3 +51,6 @@ x64/Debug/Ai3.tlog/link.read.1.tlog
 *.db
 .vs/Ai3/v17/.suo
 *.vsidx
+*.db-shm
+*.db-wal
+*.log
